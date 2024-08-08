@@ -25,3 +25,9 @@ This is being used for a learning exercise and will be deployed to understanding
 - Other - Blue - #104057 - rgb(24, 81, 154) - hsl(214, 73%, 35%)
 - Other - Red - #b02f2f - rgb(182, 47, 47) - hsl(0, 59%, 45%)
 
+
+# LOGO
+
+ https://www.canva.com/design/DAGNS2Dyh7k/ojQxrzDYTlQiNnbZLO8dsA/view?utm_content=DAGNS2Dyh7k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
+
+ https://www.canva.com/design/DAGNS2Dyh7k/SCiO9K1bpKQ8XmgEIBAOTQ/edit?utm_content=DAGNS2Dyh7k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
