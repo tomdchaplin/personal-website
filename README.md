@@ -13,5 +13,4 @@ This is being used for a learning exercise and will be deployed to understanding
  - Personal Projects
  - Testimonials
  - Hobbies and Personal Interests
- - 
  - Contact
