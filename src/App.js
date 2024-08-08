@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     <div>
-      <h1 className='text-3xl bg-cyan-500 justify-center text-center'>Testing the web page</h1>
+      <h1 className='text-3xl bg-cyan-500 justify-center text-center'>Thomas Chaplin</h1>
     </div>
     </>
   );
