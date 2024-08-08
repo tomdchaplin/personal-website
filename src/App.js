@@ -4,9 +4,11 @@ import './index.css';
 function App() {
   return (
     <>
-    <div>
-      <h1 className='text-3xl font-rubik bg-grey text-center justify center text-orange'>Thomas Chaplin</h1>
-    </div>
+    <main className="bg-grey text-center justify-center font-rubik">
+      <div>
+        <h1 className="text-4xl text-orange">Hello World</h1>
+      </div>
+    </main>
     </>
   );
 }
