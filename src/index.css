@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@layer components {
+    .nav-bar {
+      @apply flex pl-4 hover:text-white;
+    }
+  }

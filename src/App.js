@@ -1,12 +1,13 @@
 import './App.css';
 import './index.css';
+import Navbar from './components/navbar/Navbar';
 
 function App() {
   return (
     <>
     <main className="bg-grey text-center justify-center font-rubik">
       <div>
-        <h1 className="text-4xl text-orange">Hello World</h1>
+        <Navbar />
       </div>
     </main>
     </>
